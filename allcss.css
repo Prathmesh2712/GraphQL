@@ -1,0 +1,24 @@
+.col-4 {
+  width: max-content;
+}
+
+.header {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.centre-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h2 {
+  font: bolder;
+}
+label {
+  font-weight: bold;
+}
+.col-2 {
+  background-image: url('../components/images/back1.jpg');
+  object-fit: cover;
+}
